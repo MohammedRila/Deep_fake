@@ -1,0 +1,7 @@
+.gitignore
+sample_submission.csv
+deepfake-detection-model.h5
+dataset/
+test_videos/
+train_sample_videos/
+.ipynb_checkpoints/
